@@ -14,7 +14,7 @@ const ben = {
 
 ## 💻 Teknolojiler & Araçlar
 
-![PHP](https://img.shields.io/badge/-PHP?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
