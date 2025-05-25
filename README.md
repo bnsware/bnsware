@@ -38,7 +38,7 @@ const ben = {
 
 ## 📫 İletişim
 
-[![support@vixware.net](https://img.shields.io/badge/Email-support@vixware.net)](mailto:support@vixware.net)
+[![support@vixware.net](https://img.shields.io/badge/Email-support_@_vixware_._net)](mailto:support@vixware.net)
 
 [![Discord](https://img.shields.io/badge/-Discord-darkblue?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/282606431486607372)
 
