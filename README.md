@@ -27,6 +27,11 @@ const ben = {
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ByNoSoftware&layout=compact&theme=radical)
 
 ## 🌱 Şu Anda Çalıştığım Projeler
+- 🔒☁️ Vixware File: https://vixware.net
+- ☁️ Vixware Upload: https://vixware.net/upload
+- 🗒️ VixPaste: https://vixware.net/paste
+- 📱 Tiktok Downloader: https://vixware.net/tiktok
+- 🖼️ Vixware Video Galeri: https://vixware.net/vidgal
 
 - 🤖 Valden Bot: Valden Yeni Nesil Discord Altyapısı (v14) ile çalışan, +90 adet komut barındıran, Discord tarafından onaylanmış, hızlı, güncel, güvenilir ve gelişmiş Türkçe bir bottur. Valden, sunucunuz için gelişmiş bir moderasyon botudur. Sunucunuzda gereken tüm işlemleri yapabilir ve sunucunuzu koruyabilir. Ayrıca ekonomi, oyunlar ve daha bir çok özellik ile sunucunuzu daha eğlenceli hale getirebilirsiniz.
 
