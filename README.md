@@ -14,6 +14,7 @@ const ben = {
 
 ## 💻 Teknolojiler & Araçlar
 
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
