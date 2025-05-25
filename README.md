@@ -38,6 +38,8 @@ const ben = {
 
 ## 📫 İletişim
 
+[![support@vixware.net](https://img.shields.io/badge/-mail-darkblue)](mailto:support@vixware.net)
+
 [![Discord](https://img.shields.io/badge/-Discord-darkblue?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/282606431486607372)
 
 ---
