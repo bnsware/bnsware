@@ -32,8 +32,9 @@ const ben = {
 - 🗒️ VixPaste: https://vixware.net/paste
 - 📱 Tiktok Downloader: https://vixware.net/tiktok
 - 🖼️ Vixware Video Galeri: https://vixware.net/vidgal
-
-- 🤖 Valden Bot: Valden Yeni Nesil Discord Altyapısı (v14) ile çalışan, +90 adet komut barındıran, Discord tarafından onaylanmış, hızlı, güncel, güvenilir ve gelişmiş Türkçe bir bottur. Valden, sunucunuz için gelişmiş bir moderasyon botudur. Sunucunuzda gereken tüm işlemleri yapabilir ve sunucunuzu koruyabilir. Ayrıca ekonomi, oyunlar ve daha bir çok özellik ile sunucunuzu daha eğlenceli hale getirebilirsiniz.
+- 🪓 Vixware Dosya Böl/Birleştir: https://vixware.net/parcala
+- 🌐 Demo Landing Page: https://vixware.net/landing
+- 🤖 Valden Discord Bot: https://discord.com/application-directory/1293827421241606226
 
 ## 📫 İletişim
 
