@@ -5,7 +5,7 @@
 ```typescript
 const ben = {
   isim: "[ByNoSoftware veya BNSWare]",
-  rol: "[Developer]",
+  rol: "[Full Stack Developer]",
   konumum: "[Türkiye]",
   ilgiAlanlari: ["yazılım", "teknoloji", "inovasyon"],
   mottom: "Sürekli öğrenmeye ve gelişmeye açık!"
