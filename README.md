@@ -4,7 +4,7 @@
 
 ```typescript
 const ben = {
-  isim: "[ByNoSoftware]",
+  isim: "[ByNoSoftware veya BNSWare]",
   rol: "[Developer]",
   konumum: "[Türkiye]",
   ilgiAlanlari: ["yazılım", "teknoloji", "inovasyon"],
