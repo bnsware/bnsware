@@ -8,7 +8,7 @@ const ben = {
   rol: "[Full Stack Developer]",
   konumum: "[Türkiye]",
   ilgiAlanlari: ["yazılım", "teknoloji", "inovasyon"],
-  mottom: "Sürekli öğrenmeye ve gelişmeye açık!"
+  mottom: "Açık kaynaklı kod köpekbalığı gibidir, sürekli hareket etmelidir yoksa ölür."
 }
 ```
 
