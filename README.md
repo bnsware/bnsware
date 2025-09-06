@@ -1,6 +1,5 @@
-# 👋 Merhaba! Ben ByNoSoftware
-
-## 🚀 Hakkımda
+# Merhaba 👋, Ben BNSWare
+## Full Stack Developer
 
 ```typescript
 const ben = {
@@ -12,38 +11,15 @@ const ben = {
 }
 ```
 
-## 💻 Teknolojiler & Araçlar
+### 💻 Teknoloji Stack'im
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c#)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-<!-- Kullandığınız teknolojilere göre güncelleyin -->
+### 📊 GitHub İstatistikleri
 
-## 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bynosoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ByNoSoftware&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bynosoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ByNoSoftware&layout=compact&theme=radical)
-
-## 🌱 Şu Anda Çalıştığım Projeler
-- 🔒☁️ Vixware File: https://vixware.net
-- ☁️ Vixware Upload: https://vixware.net/upload
-- 🗒️ VixPaste: https://vixware.net/paste
-- 📱 Tiktok Downloader: https://vixware.net/tiktok
-- 🖼️ Vixware Video Galeri: https://vixware.net/vidgal
-- 🪓 Vixware Dosya Böl/Birleştir: https://vixware.net/parcala
-- 🌐 Demo Landing Page: https://vixware.net/landing
-- 🤖 Valden Discord Bot: https://discord.com/application-directory/1293827421241606226
-
-## 📫 İletişim
-
-mailto:support@vixware.net
-
-[![Discord](https://img.shields.io/badge/-Discord-darkblue?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/282606431486607372)
-
----
-
-⭐️ ByNoSoftware tarafından oluşturuldu
+### 🚀 Öne Çıkan Projeler
+[GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager)
+[tiktok-downloader](https://github.com/ByNoSoftware/tiktok-downloader)
