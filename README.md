@@ -21,9 +21,9 @@ const ben = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bynosoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🚀 Öne Çıkan Projeler
-[BadgeCraft](https://rozet.vixware.net) ![Quality](https://rozet.vixware.net/badge/A%2B%2B/brightgreen?style=single)![Build](https://rozet.vixware.net/Build/Passing/brightgreen)![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
+[BadgeCraft](https://rozet.vixware.net) ![Quality](https://rozet.vixware.net/badge/A%2B%2B/brightgreen?style=single) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
 
-[GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen)![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
+[GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
 
 [tiktok-downloader](https://github.com/ByNoSoftware/tiktok-downloader) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen)
 
