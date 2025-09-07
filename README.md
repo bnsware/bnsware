@@ -25,7 +25,7 @@ const ben = {
 
 [GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen) ![Version](https://rozet.vixware.net/Version/v2.0/blue) ![github license](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/license) ![github language](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/language) ![github lastcommit](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/lastcommit)
 
-[tiktok-downloader](https://github.com/ByNoSoftware/tiktok-downloader) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![github license](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/license) ![github language](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/language) ![github lastcommit](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/lastcommit)
+[tiktok-downloader](https://github.com/ByNoSoftware/tiktok-downloader) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![github license](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/license) ![github language](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/language) ![github lastcommit](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/lastcommit) 
 
 [Vixware.net](https://vixware.net)
 
