@@ -23,7 +23,7 @@ const ben = {
 ### 🚀 Öne Çıkan Projeler
 [BadgeCraft](https://rozet.vixware.net) ![Quality](https://rozet.vixware.net/badge/A%2B%2B/brightgreen?style=single) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
 
-[GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
+![Versiyon](https://rozet.vixware.net/Versiyon/v2.0/blue) [GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
 
 [tiktok-downloader](https://github.com/ByNoSoftware/tiktok-downloader) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen)
 
