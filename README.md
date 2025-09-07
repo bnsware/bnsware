@@ -21,7 +21,7 @@ const ben = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bynosoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🚀 Öne Çıkan Projeler
-[BadgeCraft](https://rozet.vixware.net) - ![Quality](https://rozet.vixware.net/Quality/A%2B/brightgreen)
+[BadgeCraft](https://rozet.vixware.net) - ![Quality](https://rozet.vixware.net/badge/A%2B%2B/brightgreen?style=single)
 
 [GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager)
 
