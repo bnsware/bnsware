@@ -16,16 +16,16 @@ const ben = {
 
 ### 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bynosoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bnsware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bynosoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bnsware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🚀 Öne Çıkan Projeler
 [BadgeCraft](https://rozet.vixware.net) ![Quality](https://rozet.vixware.net/badge/A%2B%2B/brightgreen?style=single) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
 
-[GoodByeDPIManager](https://github.com/ByNoSoftware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen) ![Version](https://rozet.vixware.net/Version/v2.0/blue) ![github license](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/license) ![github language](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/language) ![github lastcommit](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/lastcommit)
+[GoodByeDPIManager](https://github.com/bnsware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen) ![Version](https://rozet.vixware.net/Version/v2.0/blue) ![github license](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/license) ![github language](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/language) ![github lastcommit](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/lastcommit)
 
-[tiktok-downloader](https://github.com/ByNoSoftware/tiktok-downloader) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![github license](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/license) ![github language](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/language) ![github lastcommit](https://rozet.vixware.net/github/ByNoSoftware/tiktok-downloader/lastcommit) 
+[tiktok-downloader](https://github.com/bnsware/tiktok-downloader) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![github license](https://rozet.vixware.net/github/bnsware/tiktok-downloader/license) ![github language](https://rozet.vixware.net/github/bnsware/tiktok-downloader/language) ![github lastcommit](https://rozet.vixware.net/github/bnsware/tiktok-downloader/lastcommit) 
 
 [Vixware.net](https://vixware.net)
 
