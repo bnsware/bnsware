@@ -21,7 +21,7 @@ const ben = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bnsware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🚀 Öne Çıkan Projeler
-[BadgeCraft](https://rozet.vixware.net) ![Quality](https://rozet.vixware.net/icon/globe/badge/A%2B%2B/blue?style=single) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen)
+[BadgeCraft](https://rozet.vixware.net) ![Quality](https://rozet.vixware.net/icon/globe/badge/A%2B%2B/blue?style=single) ![Deploy](https://rozet.vixware.net/icon/rss/badge/Live/teal?style=single)
 
 [GoodByeDPIManager](https://github.com/bnsware/GoodByeDPIManager) ![Build](https://rozet.vixware.net/Build/Passing/brightgreen) ![Deploy](https://rozet.vixware.net/Deploy/Live/brightgreen) ![Version](https://rozet.vixware.net/Version/v2.0/blue) ![github license](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/license) ![github language](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/language) ![github lastcommit](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/lastcommit)
 
