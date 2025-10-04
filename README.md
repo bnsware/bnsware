@@ -18,6 +18,8 @@ const ben = {
 ![badge](https://rozet.vixware.net/icon/npm/badge/NPM/purple?style=single)
 ![badge](https://rozet.vixware.net/icon/net/badge/.NET/yellow?style=single)
 ![badge](https://rozet.vixware.net/icon/react/badge/REACT/red?style=single)
+![badge](https://rozet.vixware.net/icon/git/badge/GIT/brightgreen?style=single)
+![badge](https://rozet.vixware.net/icon/javascript/badge/JAVASCRIPT/purple?style=single)
 
 ### 📊 GitHub İstatistikleri
 
