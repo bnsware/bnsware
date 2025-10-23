@@ -1,6 +1,8 @@
 # Merhaba 👋, Ben BNSWare
 ## Full Stack Developer
 
+[![badge](https://rozet.vixware.net/icon/coffee/badge/Buy%20Me%20a%20Coffee/yellow?style=single)](https://www.buymeacoffee.com/bnsware)
+
 ```typescript
 const ben = {
   isim: "[ByNoSoftware veya BNSWare]",
