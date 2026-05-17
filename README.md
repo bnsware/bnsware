@@ -39,6 +39,19 @@ const ben = {
 
 ## 🚀 Öne Çıkan Projeler
 
+### 🛡️ SubLens
+> Windows için gerçek zamanlı OCR tabanlı oyun diyalog çevirmeni.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bnsware/SubLens)
+![Version](https://img.shields.io/badge/Version-v1.0-gold?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%207%2F8%2F10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Size](https://badge.elohane.com/github/bnsware/SubLens/size)
+[![Stars](https://img.shields.io/github/stars/bnsware/SubLens?style=flat-square&logo=github)](https://github.com/bnsware/GoodByeDPIManager-TR/stargazers)
+![Made by BNSWare](https://img.shields.io/badge/by-BNSWare-gold?style=flat-square)
+
+
 ### 🛡️ GoodBye DPI Manager
 > DPI engellerini aşmak için geliştirilmiş, kullanımı kolay Windows uygulaması.
 
