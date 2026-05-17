@@ -47,7 +47,7 @@ const ben = {
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%207%2F8%2F10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Size](https://img.shields.io/badge/Size-~10MB-orange?style=flat-square)
+![Size](https://badge.elohane.com/github/bnsware/GoodByeDPIManager-TR/size)
 [![Stars](https://img.shields.io/github/stars/bnsware/GoodByeDPIManager-TR?style=flat-square&logo=github)](https://github.com/bnsware/GoodByeDPIManager-TR/stargazers)
 ![Made by BNSWare](https://img.shields.io/badge/by-BNSWare-gold?style=flat-square)
 
